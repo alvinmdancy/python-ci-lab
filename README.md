@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository demonstrates a minimal FastAPI service with a fully automated Continuous Integration (CI) workflow. The project focuses on reproducible environments, automated validation, and code quality enforcement — core practices in modern DevOps and backend development.
+This repository demonstrates a minimal FastAPI service with a fully automated Continuous Integration (CI) workflow. The project focuses on reproducible environments, automated validation, and code quality enforcement, core practices in modern DevOps and backend development.
 
 ---
 
